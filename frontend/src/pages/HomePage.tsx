@@ -83,7 +83,7 @@ const HomePage: React.FC = () => {
 
       {/* Footer */}
       <footer className="text-center py-6 bg-white border-t">
-        <p className="text-gray-500">© 2026 Sampharix ERP. All rights reserved.</p>
+        <p className="text-gray-500">© 2026 Sampharix ERP. All rights reserved Sambit Kumar Swain.</p>
       </footer>
     </div>
   );
